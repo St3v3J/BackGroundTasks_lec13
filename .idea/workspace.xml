@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8c981a21-397b-476d-97bb-949283819b05" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/email_helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/email_helper.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599781286065</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="first commit">
+      <created>1599855202992</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1599855202992</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -155,10 +161,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="296" y="0" key="CommitChangelistDialog2" timestamp="1599781285106">
+    <state x="380" y="165" key="#Notifications" timestamp="1599855265778">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="296" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1080@0.0.1280.680" timestamp="1599781285106" />
+    <state x="380" y="165" key="#Notifications/0.0.1280.680/1920.0.1920.1080@0.0.1280.680" timestamp="1599855265778" />
+    <state x="296" y="0" key="CommitChangelistDialog2" timestamp="1599855202512">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="296" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1080@0.0.1280.680" timestamp="1599855202512" />
     <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1599745735040">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -207,14 +217,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="221" y="76" key="IDE.errors.dialog/0.0.1280.680/1920.0.1920.1080@0.0.1280.680" timestamp="1599462342486" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1599781720695">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1599855237189">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1920.1080@0.0.1280.680" timestamp="1599781720695" />
-    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599781266960">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1920.1080@0.0.1280.680" timestamp="1599855237189" />
+    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599855163496">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680/1920.0.1920.1080@0.0.1280.680" timestamp="1599781266960" />
+    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680/1920.0.1920.1080@0.0.1280.680" timestamp="1599855163496" />
     <state x="347" y="73" width="587" height="534" key="find.popup" timestamp="1599459811200">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
